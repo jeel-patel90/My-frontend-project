@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'FoundersGrotesk';
+  src: url('/fonts/FoundersGrotesk-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
